@@ -4,8 +4,8 @@ Color quantization is a problem of clustering points in three-dimensional space,
 ### Results
 
 <p float="left">
-<img src="https://github.com/bharatsesham/Color_Quantization/blob/main/results/task2_baboon_3.jpg" align="left" width="375"/>
-<img src="https://github.com/bharatsesham/Color_Quantization/blob/main/results/task2_baboon_5.jpg" align="right" width="375"/>
+<img src="https://github.com/bharatsesham/Color_Quantization/blob/main/results/task2_baboon_3.jpg" align="left" width="415"/>
+<img src="https://github.com/bharatsesham/Color_Quantization/blob/main/results/task2_baboon_5.jpg" align="right" width="415"/>
 </p>
 <br><br><br><br><br><br><br><br><br>
 <br>
